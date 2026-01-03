@@ -1,4 +1,4 @@
-# Telia-Technicolor-TG389ac-Router-settings-Admin-log-in-password-access-key-
+# Telia-Technicolor-TG389ac-Router-LogIn-admin-Password
 How to Access Telia Technicolor TG389ac Router Settings (Using Access Key)
 This guide is for Telia Technicolor TG389ac routers (older firmware around 2015–2016).
 It shows how to access the router settings without contacting Telia.
