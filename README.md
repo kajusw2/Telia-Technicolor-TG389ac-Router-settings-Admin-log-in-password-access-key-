@@ -7,6 +7,7 @@ What you need:
 Physical access to the router
 The sticker on the router
 A device connected to the router (Wi-Fi or Ethernet)
+
 Step 1: Find the Access Key
 Look at the label on the back or bottom of the router. You will see:
 Wi-Fi name (SSID)
